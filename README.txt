@@ -1,0 +1,1 @@
+Afegirem nou codi al programa per que mostri quants caràcters són números!

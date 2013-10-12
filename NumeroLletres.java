@@ -10,6 +10,8 @@ public static void main(String[] args){
        int ComptarVocals = 0;
        int ComptarConsonants = 0;
        int ComptarAltres = 0;
+       int ComptarNumeros = 0;
+       
        
        for(int p=0; p<frase.length(); p++)
        {
