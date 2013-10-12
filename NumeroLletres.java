@@ -7,7 +7,7 @@ public static void main(String[] args){
        String frase = llegir.nextLine(); // Llegir cadena
        frase = frase.toLowerCase(); // Passar a minúscula la cadena
        
-       int ComptarVocals = 0;
+       int ComptarVocals = 0;//afegeixo comentari a projecte2
        int ComptarConsonants = 0;
        int ComptarAltres = 0;
        int ComptarNumeros = 0;
