@@ -14,6 +14,7 @@ public static void main(String[] args){
        
        
        for(int p=0; p<frase.length(); p++) //un altre comentari per afegir
+
        {
            if(frase.charAt(p) == 'a' || frase.charAt(p) == 'e' || frase.charAt(p) == 'i' || frase.charAt(p) == 'o' || frase.charAt(p) == 'u')
                ComptarVocals++;
