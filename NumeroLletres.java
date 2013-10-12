@@ -13,7 +13,7 @@ public static void main(String[] args){
        int ComptarNumeros = 0; //afegeixo un comentari a projecte1
        
        
-       for(int p=0; p<frase.length(); p++)
+       for(int p=0; p<frase.length(); p++) //nou comentari per afegir al repositori
        {
            if(frase.charAt(p) == 'a' || frase.charAt(p) == 'e' || frase.charAt(p) == 'i' || frase.charAt(p) == 'o' || frase.charAt(p) == 'u')
                ComptarVocals++;
